@@ -9,8 +9,6 @@ Crossref、DataCite、arXiv を利用し、
 
 ---
 
-# Features
-
 ## 🚀 Live Demo
 
 Try AI Reference Checker
@@ -20,6 +18,8 @@ Try AI Reference Checker
 Current version
 
 Free v0.1
+
+# Features
 
 ### DOI Validation
 
