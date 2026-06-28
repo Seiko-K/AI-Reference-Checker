@@ -13,10 +13,6 @@ AI-assisted reference validation and formatting tool for authors, researchers an
 Crossref、DataCite、arXiv を利用し、
 参照文献の検証・整形・照会支援を行います。
 
-※ Googleアカウント切替の影響で開けない場合は、シークレットウィンドウでお試しください。
-
-Note: If the app does not open due to Google account switching, please try an incognito/private window.
-
 ---
 
 ## 🚀 Live Demo
@@ -28,6 +24,10 @@ Try AI Reference Checker
 Current version
 
 Free v0.1
+
+※ Googleアカウント切替の影響で開けない場合は、シークレットウィンドウでお試しください。
+
+Note: If the app does not open due to Google account switching, please try an incognito/private window.
 
 # Features
 
