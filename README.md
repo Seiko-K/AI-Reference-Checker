@@ -109,4 +109,23 @@ Turning divergent thinking into AI products and better workflows.
 
 ---
 
+## Release Notes
+
+### v0.1 — 2026-06-29
+
+First public release.
+
+Features
+
+- DOI extraction
+- Crossref lookup
+- DataCite support
+- arXiv DOI support
+- Similarity scoring
+- Vancouver / APA / IEEE / Chicago / AMA
+- Journal detection
+- Citation Style Help
+
+---  
+
 Created by Seiko-K
