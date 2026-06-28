@@ -1,3 +1,9 @@
+![Version](https://img.shields.io/badge/version-v0.1-blue)
+
+![Status](https://img.shields.io/badge/status-active-success)
+
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # AI Reference Checker
 
 AI-assisted reference validation and formatting tool for authors, researchers and editors.
