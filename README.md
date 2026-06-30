@@ -19,7 +19,7 @@ Crossref、DataCite、arXiv を利用し、
 
 Try AI Reference Checker
 
-[Launch AI Reference Checker](https://script.google.com/macros/s/AKfycbwDX38_m4f6VBoDLwUgolcDL4izwP1oMjTu46RJu4rEXXW70JUPsFcF8PVWVX012QZG/exec)
+[Launch AI Reference Checker](https://script.google.com/macros/s/AKfycbwfZL0AAS9TTL6wjXpesMr8hfHl3XXBwCf5KloKOv36hCebn4M_XADqqwIPxTu6IgwH/exec)
 
 Current version
 
