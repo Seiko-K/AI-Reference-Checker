@@ -19,7 +19,7 @@ Crossref、DataCite、arXiv を利用し、
 
 Try AI Reference Checker
 
-[Launch AI Reference Checker](https://script.google.com/macros/s/AKfycbwJLjcTY0Hvp-qKCHqGbI0pSUDwnm-SKZ5VVfa-KeOVGUq2oJ6wB56dg76gF_-bM3X3/exec)
+[Launch AI Reference Checker](https://script.google.com/macros/s/AKfycbxqgUVzXX1uKji8mhWTHX71o_loQk0_k4fqd1doLP_pcxjDdYn7tpO6h1AtCoQsc6gG/exec)
 
 ※ Googleアカウント切替の影響で開けない場合は、
 シークレットウィンドウでお試しください。
