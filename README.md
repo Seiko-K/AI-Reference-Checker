@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-v0.2.2-blue)
+![Version](https://img.shields.io/badge/version-v0.2.3-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,7 +19,7 @@ Crossref、DataCite、arXiv を利用し、
 
 Try AI Reference Checker
 
-[Launch AI Reference Checker](https://script.google.com/macros/s/AKfycbwD69Grvjb412ykE-1w3Zc6FcFbsj2FsaFWaRqDpoxiJyCBjNfpCuwKo6bEw9jDwnzO/exec)
+[Launch AI Reference Checker](https://script.google.com/macros/s/AKfycbwJLjcTY0Hvp-qKCHqGbI0pSUDwnm-SKZ5VVfa-KeOVGUq2oJ6wB56dg76gF_-bM3X3/exec)
 
 ※ Googleアカウント切替の影響で開けない場合は、
 シークレットウィンドウでお試しください。
@@ -32,9 +32,9 @@ please try an incognito/private window.
 
 ## Current Version
 
-Free v0.2.2
+Free v0.2.3
 
-Released: 2026-06-30
+Released: 2026-07-01
 
 Status: Active Development
 
@@ -100,6 +100,12 @@ Status: Active Development
 
 ✓ Missing Required labels
 
+✓ Similarity UX
+
+✓ Match Basis
+
+✓ Bilingual Check Details
+
 ---
 
 ### Formatting
@@ -116,7 +122,7 @@ Status: Active Development
 
 ---
 
-# Free v0.2.2
+# Free v0.2.3
 
 ✓ Single reference input
 
@@ -128,9 +134,15 @@ Status: Active Development
 
 ✓ Reference Classification
 
+✓ CitationRule Engine
+
 ✓ Missing Required
 
 ✓ Medium Detection
+
+✓ Similarity UX
+
+✓ Match Basis
 
 ✓ Formatted Reference
 
@@ -163,11 +175,11 @@ Turning divergent thinking into AI products and better workflows.
 
 # Roadmap
 
+□ Website detection refinement
+
 □ DOI Resolver
 
 □ Crossref bibliographic search
-
-□ Website detection refinement
 
 □ Editorial Profiles
 
@@ -184,6 +196,22 @@ Turning divergent thinking into AI products and better workflows.
 ---
 
 ## Release Notes
+
+### v0.2.3 — 2026-07-01
+
+Added
+
+- Similarity UX
+- DOI ↔ Crossref comparison
+- Match Basis
+- Bilingual Check Details
+- Missing Required labels
+- Detected Medium
+- Official Name
+- DOI-only 100% matching
+- Crossref/DataCite bilingual status messages
+
+---
 
 ### v0.2.2 — 2026-06-30
 
@@ -226,10 +254,10 @@ v0.1 DOI Validation
 ✅ Released
 
 v0.2 Reference Classification
-✅ Released
+🚧 In Progress
 
 v0.3 DOI Resolver
-🚧 In Progress
+🗓 Planned
 
 v0.4 Editorial Assistant
 🗓 Planned
