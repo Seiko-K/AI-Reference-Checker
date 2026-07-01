@@ -36,7 +36,7 @@ Free v0.2.3
 
 Released: 2026-07-01
 
-Status: Active Development
+Status: Active Development (Free Edition)
 
 ---
 
@@ -92,7 +92,7 @@ Status: Active Development
 
 ✓ Detected Medium
 
-✓ Official Name
+✓ Official Source
 
 ✓ CitationRule Engine
 
@@ -175,11 +175,11 @@ Turning divergent thinking into AI products and better workflows.
 
 # Roadmap
 
-□ Website detection refinement
-
 □ DOI Resolver
 
 □ Crossref bibliographic search
+
+□ Website detection refinement
 
 □ Editorial Profiles
 
@@ -204,11 +204,8 @@ Added
 - Similarity UX
 - DOI ↔ Crossref comparison
 - Match Basis
-- Bilingual Check Details
-- Missing Required labels
-- Detected Medium
-- Official Name
 - DOI-only 100% matching
+- Bilingual Check Details
 - Crossref/DataCite bilingual status messages
 
 ---
@@ -221,7 +218,7 @@ Added
 - CitationRule Engine
 - Missing Required Labels
 - Detected Medium
-- Official Name
+- Official Source
 - Crossref Type Mapping
 - DataCite Type Mapping
 
@@ -254,12 +251,15 @@ v0.1 DOI Validation
 ✅ Released
 
 v0.2 Reference Classification
-🚧 In Progress
+✅ Released
 
 v0.3 DOI Resolver
 🗓 Planned
 
 v0.4 Editorial Assistant
+🗓 Planned
+
+Pro Edition
 🗓 Planned
 
 ---
